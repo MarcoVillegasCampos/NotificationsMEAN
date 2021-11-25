@@ -1,0 +1,18 @@
+.messageBox{
+    border: 1px solid black;
+    height: 200px;
+    width: 500px;
+    overflow: scroll;
+    display: inline-block;
+}
+label{
+    display: block;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.notificationBox{
+    display: block;
+    overflow: scroll;
+}

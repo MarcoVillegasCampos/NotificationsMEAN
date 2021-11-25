@@ -1,0 +1,25 @@
+{
+  "name": "sockeio_server",
+  "version": "1.0.0",
+  "description": "Learning how to use socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Alfredo Salazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfredo08/Sockeio_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alfredo08/Sockeio_server/issues"
+  },
+  "homepage": "https://github.com/Alfredo08/Sockeio_server#readme"
+}
